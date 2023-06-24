@@ -1,4 +1,4 @@
-# GAMMA-GUI
+# GAMMA-GUI (Aplicativo)
 
 Aplicativo para download!!!
 
