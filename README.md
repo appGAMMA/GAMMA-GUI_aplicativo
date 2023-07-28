@@ -16,7 +16,7 @@ Sugestões de melhorias ou novas ideias são incentivadas e bem-vindas e podem s
 
 
 
-Diego Galvan - diegogalvann@gmail.com
+Diego Galvan - diego.galvan@ufsc.br
 
 Evandro Bona - ebona@utfpr.edu.br
 
